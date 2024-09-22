@@ -100,3 +100,83 @@
 
 
 // Question 6
+
+// var marksObtained = +prompt("Enter Your Obtained Marks");
+// var totalMarks = +prompt("Enter Total Marks");
+// var percentage;
+// percentage = (marksObtained / totalMarks) * 100;
+
+// var grade;
+// var marks;
+
+// if (percentage >= 80) {
+//     grade = "A-one"
+//     marks = "Excellent"
+// }
+// else if (percentage >= 70) {
+//     grade = "A"
+//     marks = "good"
+// }
+// else if (percentage >= 60) {
+//     grade = "B"
+//     marks = "You Need Improve"
+// }
+// else {
+//     grade = "Fail"
+//     marks = "Sorry"
+// }
+
+// document.write(`
+//     <h1>Marks Sheet</h1>
+//     <p>Total Marks :${totalMarks}</P>
+//     <p>Obtained Marks :${marksObtained}</P>
+//     <p>Percentage :${percentage}</P>
+//     <p>Grade :${grade}</P>
+//     <p>Marks :${marks}</P>`);
+
+
+
+
+// Question 7
+
+// var num=5;
+// var userInput=+prompt("Please Enter a Number")
+
+// if(userInput===num){
+//     document.write("Bingo")
+// }
+// else if(userInput===++num ){
+//     document.write("Close enough to the correct answer.")
+// }
+// else{
+//     document.write("Sorry,You Lost")
+// }
+
+
+// Question 8
+
+// var userInput=+prompt("Enter a Number");
+
+// if(userInput%3 === 0){
+//     document.write("This Number is Divisible by 3.")
+
+// }
+// else{
+//     document.write("This Number is not Divisible by 3.")
+// }
+
+// Question 9
+
+// var userInput=+prompt("Enter a Number");
+
+// if(userInput%2 === 0){
+//     document.write("Even")
+
+// }
+// else{
+//     document.write("odd")
+// }
+
+
+// Question 10
+
