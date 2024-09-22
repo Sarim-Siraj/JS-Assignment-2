@@ -58,7 +58,24 @@
 
 
 
-// Question 4
+// Question 5
+var userInput=+prompt("Enter a Number ",5)
+ document.write(`
+    <h1>The Multiplication of ${userInput}</h1>
+
+    <P>${userInput} * 1 = ${userInput*1} </P>
+    <P>${userInput} * 2 = ${userInput*2} </P>
+    <P>${userInput} * 3 = ${userInput*3} </P>
+    <P>${userInput} * 4 = ${userInput*4} </P>
+    <P>${userInput} * 5 = ${userInput*5} </P>
+    <P>${userInput} * 6 = ${userInput*6} </P>
+    <P>${userInput} * 7 = ${userInput*7} </P>
+    <P>${userInput} * 8 = ${userInput*8} </P>
+    <P>${userInput} * 9 = ${userInput*9} </P>
+    <P>${userInput} * 10 = ${userInput*10} </P>
+   
+
+    `)
 
 
 
