@@ -158,11 +158,11 @@
 // var userInput=+prompt("Enter a Number");
 
 // if(userInput%3 === 0){
-//     document.write("This Number is Divisible by 3.")
+//     document.write("This Number is Divisible by 3.");
 
 // }
 // else{
-//     document.write("This Number is not Divisible by 3.")
+//     document.write("This Number is not Divisible by 3.");
 // }
 
 // Question 9
@@ -170,13 +170,52 @@
 // var userInput=+prompt("Enter a Number");
 
 // if(userInput%2 === 0){
-//     document.write("Even")
+//     document.write("Even");
 
 // }
 // else{
-//     document.write("odd")
+//     document.write("odd");
 // }
 
 
 // Question 10
 
+// var userInput=+prompt("Enter today Temperature");
+
+// if(userInput >40){
+//     document.write("Is is too hot outside");
+// }
+// else if(userInput>30){
+//     document.write("The weather Today is ,Normal");
+// }
+// else if(userInput>20){
+//     document.write("Today's Weather is Cool");
+// }
+// else{
+//     document.write("OMG! Today's Weather is So cool");
+// }
+
+
+
+// Question 11
+// var num1=+prompt("Enter your First number");
+// var num2=+prompt("Enter your Second number");
+// var operation=prompt("Select Your operation + , - , * , / ,% .")
+
+// if(operation==="+"){
+//     document.write(num1+num2)
+// }
+// else if(operation==="-"){
+//     document.write(num1-num2)
+// }
+// else if(operation==="*"){
+//     document.write(num1*num2)
+// }
+// else if(operation==="/"){
+//     document.write(num1/num2)
+// }
+// else if(operation==="%"){
+//     document.write(num1%num2)
+// }else{
+//     document.write("Sorry")
+// }
